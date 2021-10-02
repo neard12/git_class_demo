@@ -1,0 +1,3 @@
+function itemInfo(){
+    return "itemInfo";
+}
